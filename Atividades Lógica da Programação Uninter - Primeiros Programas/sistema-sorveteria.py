@@ -1,5 +1,5 @@
-# Mensagem de boas vindas com meu nome, Iury Warszavsky de Paula (RU de aluno: 4571817)
-print('Bem vindo a Sorveteria do Iury Warszavsky de Paula')
+# Mensagem de boas vindas com meu nome, Iury de Paula (RU de aluno: 4571817)
+print('Bem vindo a Sorveteria do Iury de Paula')
 print('-' * 36, 'Cardápio', '-' * 36)
 print('|', 'N° DE BOLAS', '|', 'Sabor Tradicional (tr)', '|', 'Sabor Premium (pr)', '|', 'Sabor Especial(es)', '|')
 print('|', '     1     ', '|', '        R$ 6,00       ', '|', '      R$ 7,00      ' '|', '     R$ 8,00      ', '|')
