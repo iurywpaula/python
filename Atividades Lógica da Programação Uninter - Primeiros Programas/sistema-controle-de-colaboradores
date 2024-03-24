@@ -91,7 +91,7 @@ def remover_colaborador():
 
 
 # ---------- Inicio de Main ----------#
-print('Bem vindo ao Controle de Colaboradores do Iury Warszavsky de Paula')
+print('Bem vindo ao Controle de Colaboradores do Iury  de Paula')
 
 while True:
 
