@@ -1,4 +1,4 @@
-print('Bem vindo a Pizzaria do Iury Warszavsky de Paula')
+print('Bem vindo a Pizzaria do Iury de Paula')
 print('-' * 21, 'Cardápio', '-' * 22)
 print(f'| Código |  Descrição  | Pizza Média | Pizza Grande |')
 print(f'|   21   |  Napolitana |     R$ 20,00|      R$ 26,00|')
