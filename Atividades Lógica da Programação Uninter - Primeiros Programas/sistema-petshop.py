@@ -1,5 +1,5 @@
 # Exercício 3 de 4 da Atividade Prática.
-boas_vindas = 'Bem vindo ao Petshop Iury Warszavsky de Paula'
+boas_vindas = 'Bem vindo ao Petshop Iury de Paula'
 
 def bordinha(valor):
     print('+', '-' * len(valor), '+')
